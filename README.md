@@ -1,9 +1,4 @@
 #<h1 align="center">42KL Piscine Projects</h1>
-<p align="center">
-	<img src="https://img.shields.io/github/license/LeeSinLiang/42_Piscine.svg?style=flat-square" alt="license"/>
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeeSinLiang/42_Piscine?color=blue&style=flat-square" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeeSinLiang/42_Piscine?color=blue&style=flat-square" />
-</p>
 
 This repo serves as my workings of 42 Piscine C projects. These projects were completed during a 4-week intensive program aimed at teaching the fundamentals of the C programming language. Each project focuses on a specific aspect of C programming, building upon the knowledge and skills gained in the previous projects.
 
@@ -11,11 +6,11 @@ This repo serves as my workings of 42 Piscine C projects. These projects were co
 
 ## Table of Contents
 
- - [Rush Projects](https://github.com/LeeSinLiang/42_Piscine/blob/main/README.md#rush-projects)
- - [Knowledge Accquired](https://github.com/LeeSinLiang/42_Piscine/blob/main/README.md#knowledge-accquired)
- - [Resources](https://github.com/LeeSinLiang/42_Piscine/blob/main/README.md#resources)
- - [Practices (Problem Solving Questions)](https://github.com/LeeSinLiang/42_Piscine#practices-problem-solving-questions)
- - [Resources for further studies (After piscine)](https://github.com/LeeSinLiang/42_Piscine#resources-for-further-studies-after-piscine)
+ - [Rush Projects](https://github.com/Fraxtal/42_Piscine/blob/main/README.md#rush-projects)
+ - [Knowledge Accquired](https://github.com/Fraxtal/42_Piscine/blob/main/README.md#knowledge-accquired)
+ - [Resources](https://github.com/Fraxtal/42_Piscine/blob/main/README.md#resources)
+ - [Practices (Problem Solving Questions)](https://github.com/Fraxtal/42_Piscine#practices-problem-solving-questions)
+ - [Resources for further studies (After piscine)](https://github.com/Fraxtal/42_Piscine#resources-for-further-studies-after-piscine)
 
 ## Rush Projects
 
