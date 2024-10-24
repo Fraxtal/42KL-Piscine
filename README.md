@@ -1,14 +1,13 @@
 #<h1 align="center">42KL Piscine Projects</h1>
 
 This repo serves as my workings of 42 Piscine C projects. These projects were completed during a 4-week intensive program aimed at teaching the fundamentals of the C programming language. Each project focuses on a specific aspect of C programming, building upon the knowledge and skills gained in the previous projects.
-
 <hr/>
 
 ## Table of Contents
 
- - [Rush Projects](https://github.com/Fraxtal/42KL-Piscine/blob/main/README.md#rush-projects)
- - [Knowledge Accquired](https://github.com/Fraxtal/42-Piscine/blob/main/README.md#knowledge-accquired)
- - [Resources](https://github.com/Fraxtal/42-Piscine//blob/main/README.md#resources)
+ - [Rush Projects](https://github.com/Fraxtal/42KL-Piscine/tree/main/README.md#rush-projects)
+ - [Knowledge Accquired](https://github.com/Fraxtal/42-Piscine/tree/main/README.md#knowledge-accquired)
+ - [Resources](https://github.com/Fraxtal/42-Piscine//tree/main/README.md#resources)
 
 ## Rush Projects
 
