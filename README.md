@@ -5,9 +5,9 @@ This repo serves as my workings of 42 Piscine C projects. These projects were co
 
 ## Table of Contents
 
- - [Rush Projects](https://github.com/Fraxtal/42KL-Piscine/tree/main/README.md#rush-projects)
- - [Knowledge Accquired](https://github.com/Fraxtal/42-Piscine/tree/main/README.md#knowledge-accquired)
- - [Resources](https://github.com/Fraxtal/42-Piscine//tree/main/README.md#resources)
+ - [Rush Projects](https://github.com/Fraxtal/42KL-Piscine/blob/main/README.md#rush-projects)
+ - [Knowledge Acquired](https://github.com/Fraxtal/42-Piscine/blob/main/README.md#knowledge-acquired)
+ - [Resources](https://github.com/Fraxtal/42-Piscine//blob/main/README.md#resources)
 
 ## Rush Projects
 
